@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @konrad1
 - 👀 I’m interested in java development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning python with pandas framework
+- 💞️ I’m looking to collaborate on crypto projects
 - 📫 How to reach me kon.rad@mail.de
 <!---
 konrad1/konrad1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
